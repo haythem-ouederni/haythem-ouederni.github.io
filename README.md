@@ -1,4 +1,4 @@
-Public website for Mitosis - generates https://i-mitosis.github.io
+My personal website - generates https://haythem-ouederni.github.io
 =======
 
 The website is rendered using Github pages and built using [Jekyll](https://jekyllrb.com/).

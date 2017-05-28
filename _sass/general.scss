@@ -18,13 +18,12 @@ html {
 
 body {
     /* Margin bottom to avoid weird problems with the footer */
-    @media screen and (max-width: 576px){
+    @media screen and (max-width: 576px) {
         margin-bottom: 190px;
     }
-    @media screen and (min-width: 576px){
+    @media screen and (min-width: 576px) {
         margin-bottom: 160px;
     }
-    
     font-size: 1.5em;
 }
 
@@ -112,7 +111,6 @@ hr {
     list-style: none;
     padding: 0px 100px 0 100px;
     max-width: 1000px;
-
     .clip {
         margin: 5px;
         width: 150px;
@@ -120,22 +118,15 @@ hr {
         background-color: white;
         border: 1px solid white;
         color: #09486b;
-
-        @media screen and (min-width: 520px){
+        @media screen and (min-width: 520px) {
             float: left;
-
-
         }
-
-        
         text-align: center;
-
         &.img-circle {
             -webkit-border-radius: 500px;
             -moz-border-radius: 500px;
             border-radius: 500px;
         }
-
         img {
             -webkit-border-radius: 500px;
             -moz-border-radius: 500px;
@@ -143,7 +134,6 @@ hr {
             width: 100px;
             height: 100px;
         }
-
         .title_sub_tech {
             margin-top: 5px;
             font-size: 13px;

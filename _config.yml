@@ -1,40 +1,37 @@
 safe: true
 
-title: Mitosis - Micro-services & Infrastructure generator
-email: mitosis@nirbyapp.com
+title: Haythem OUEDERNI - Stratups enthusiastic and Web / Mobile apps Architect and Developer
+email: haythem@nirbyapp.com
 description: > # this means to ignore newlines until "baseurl:"
-  "Mitosis is a micro-services' infrastructure generator based on the best technologies :
-  Yeoman, Kubernetes/Docker Swarm, Traefik, Consul, etcd, Docker, Ansible, Jenkins, Kafka, Spark Streaming,...
-  With Mitosis you focus on what matters for your product and we take care of the reest." 
-image_to_share: https://i-mitosis.github.io/assets/images/logo-mitosis-400x400.png
+  "New technologies enthusiastic, I help startups and big companies build beautiful and rock solid mobile and web apps. 
+  Intervienig from the strategy definition step to designing the architecture of the solution before putting it in place and developing it." 
+image_to_share: TODO
 
-organization : Nirby-Mitosis
+organization : Haythem OUEDERNI
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: NirbyApp
-github_username:  NirbyApp
+twitter_username: 
+github_username:  haythemOUE
 
 # Mitosis on social medias
 social_links:
-  facebook: https://www.facebook.com/nirbyapp/
-  twitter: https://twitter.com/NirbyApp
-  github: https://github.com/NirbyApp/generator-mitosis
-  googl_plus: https://plus.google.com/109315561303094036500
-  youtube: https://www.youtube.com/channel/UCWZITtzFtv-hz_122Av6XAQ
+  github: https://github.com/haythemOUE
+  linkedin: https://www.linkedin.com/in/haythem-ouederni-16598977/
+
 
 
 
 # facebook information
-facebook_app_id: 1978319489046223
+facebook_app_id: 
 
 # Build settings
-google_analytics_id: UA-92680404-1
+google_analytics_id: todo
 google_site_verification: sIII5ZDXqWlrMwtfZym2jxmm8anSICOy8t7xqfAwTdQ
 
-github_repository: https://github.com/NirbyApp/generator-mitosis
+github_repository: https://github.com/haythemOUE/haythem-ouederni
 
-mitosis_website: https://i-mitosis.github.io
+haythem_ouederni_website: https://haythem-ouederni.github.io
 
 timezone: Europe/Paris
 
